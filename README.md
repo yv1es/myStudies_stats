@@ -28,8 +28,8 @@ pip install -r requirements.txt
 In the folder `/src` create a file named `creds.py`.
 The credentials file should have following format:
 ```
-`USERNAME` = "your mystudies username"
-`PASSWORD` = "your mystudies password"
+USERNAME = "your mystudies username"
+PASSWORD = "your mystudies password"
 ``` 
 The `creds.py` file will be ignored by git with the intention of preventing accidental credential leaks. 
 
