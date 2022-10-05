@@ -2,6 +2,12 @@
 A short script that scrapes myStudies and creates a dataframe from the transcript of records. 
 It allows you to compute weighted averages etc. 
 
+## Disclaimer
+This program will automatically login and access your mystudies page. Hence a software bug could lead to unintended changes on your mystudies profile.
+Further is it (in most cases) not allowed to use a bot for webscraping without consent of the owner of the concerned website. 
+
+I do not take any responsibility for the use of this tool.  
+
 ## Installation
 Google Chrome browser needs to be installed on your system. \
 Run the following commands in powershell (Windows) or in terminal (Linux).
